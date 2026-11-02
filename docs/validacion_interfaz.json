@@ -1,0 +1,13 @@
+{
+  "estado": "correcto",
+  "pruebas": [
+    "Vista nacional: 244.355 registros, seis gráficos y tabla, 33 polígonos.",
+    "Filtro de departamento: Antioquia = 34.473.",
+    "Cuatro filtros simultáneos: Antioquia, febrero, mujeres, vejez = 582.",
+    "Restablecer recupera el total nacional.",
+    "Selección sin datos: mensaje visible y gráficos vacíos sin excepción.",
+    "Vista móvil de 390 px sin desbordamiento horizontal de la página."
+  ],
+  "errores_javascript": [],
+  "solicitudes_fallidas": []
+}

@@ -1,0 +1,25 @@
+{
+  "filas_fuente": 244355,
+  "filas_consolidadas": 244355,
+  "anio": 2019,
+  "codigos_territoriales": 1110,
+  "departamentos_y_bogota": 33,
+  "causas_distintas": 3271,
+  "registros_sin_territorio": 0,
+  "registros_sin_descripcion": 0,
+  "cruces": "many_to_one",
+  "fuentes": [
+    {
+      "archivo": "Anexo1.NoFetal2019_CE_15-03-23.xlsx",
+      "sha256": "ea2ba442074a0b520ebabbd1f4024138065b00a42ff14b991b6252bd82c09088"
+    },
+    {
+      "archivo": "Divipola_CE_.xlsx",
+      "sha256": "a67f9233907b2ca257b325c2d2206a1940138b38424f986f8c072224ea60c1bc"
+    },
+    {
+      "archivo": "Anexo2.CodigosDeMuerte_CE_15-03-23.xlsx",
+      "sha256": "7884bd035acff7282c5f3c173d888508c15a5a11bb82f7888b89734f74dc5d7f"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+test_callback_http (test_proyecto.Aplicacion.test_callback_http) ... ok
+test_callbacks_sin_error (test_proyecto.Aplicacion.test_callbacks_sin_error) ... ok
+test_meses_excluidos_son_huecos (test_proyecto.Aplicacion.test_meses_excluidos_son_huecos) ... ok
+test_poligonos_completos (test_proyecto.Aplicacion.test_poligonos_completos) ... ok
+test_restablecer (test_proyecto.Aplicacion.test_restablecer) ... ok
+test_rutas (test_proyecto.Aplicacion.test_rutas) ... ok
+test_base_comprimida (test_proyecto.Datos.test_base_comprimida) ... ok
+test_catalogo_completo (test_proyecto.Datos.test_catalogo_completo) ... ok
+test_cifras_nacionales (test_proyecto.Datos.test_cifras_nacionales) ... ok
+test_edades_bordes_y_desconocida (test_proyecto.Datos.test_edades_bordes_y_desconocida) ... ok
+test_empates_menores (test_proyecto.Datos.test_empates_menores) ... ok
+test_filtro_combinado (test_proyecto.Datos.test_filtro_combinado) ... ok
+test_filtros_por_separado (test_proyecto.Datos.test_filtros_por_separado) ... ok
+test_municipios_homonimos (test_proyecto.Datos.test_municipios_homonimos) ... ok
+test_particiones_conservan_registros (test_proyecto.Datos.test_particiones_conservan_registros) ... ok
+test_ranking_x95 (test_proyecto.Datos.test_ranking_x95) ... ok
+test_top_causas_descripciones (test_proyecto.Datos.test_top_causas_descripciones) ... ok
+test_vacio_y_restablecer (test_proyecto.Datos.test_vacio_y_restablecer) ... ok
+
+----------------------------------------------------------------------
+Ran 18 tests in 7.387s
+
+OK

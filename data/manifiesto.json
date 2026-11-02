@@ -1,0 +1,37 @@
+{
+  "archivo": "data/mortalidad_2019.csv.gz",
+  "sha256_gzip": "1a3fa110a2d5976f34ac8135fcf1d9488f9f88aa17a7dfbffd001ffd97ae2dae",
+  "bytes_gzip": 5687797,
+  "sha256_csv": "eb98023222d57b574598e3e09b08dadc344ad7e88f27ae542b17305e876873a6",
+  "bytes_csv": 33289540,
+  "compresion": "gzip",
+  "controles": {
+    "filas": 244355,
+    "anio": [
+      2019
+    ],
+    "codigos_dane": 1110,
+    "departamentos_y_bogota": 33,
+    "codigos_causa": 3271,
+    "registros_x95": 9273,
+    "registros_sin_descripcion": 0,
+    "nombres_causa_vacios": 0
+  },
+  "fuentes": [
+    {
+      "archivo": "data/originales/Anexo1.NoFetal2019_CE_15-03-23.xlsx",
+      "bytes": 19174147,
+      "sha256": "ea2ba442074a0b520ebabbd1f4024138065b00a42ff14b991b6252bd82c09088"
+    },
+    {
+      "archivo": "data/originales/Anexo2.CodigosDeMuerte_CE_15-03-23.xlsx",
+      "bytes": 675122,
+      "sha256": "7884bd035acff7282c5f3c173d888508c15a5a11bb82f7888b89734f74dc5d7f"
+    },
+    {
+      "archivo": "data/originales/Divipola_CE_.xlsx",
+      "bytes": 159331,
+      "sha256": "a67f9233907b2ca257b325c2d2206a1940138b38424f986f8c072224ea60c1bc"
+    }
+  ]
+}
