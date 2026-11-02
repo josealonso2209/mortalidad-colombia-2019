@@ -1,7 +1,7 @@
 {
   "archivo": "data/mortalidad_2019.csv.gz",
-  "sha256_gzip": "1a3fa110a2d5976f34ac8135fcf1d9488f9f88aa17a7dfbffd001ffd97ae2dae",
-  "bytes_gzip": 5687797,
+  "sha256_gzip": "c7cdf9330db5112f1b997764a78bbfd095cc232659de1d03a5b9bbaa7afac036",
+  "bytes_gzip": 5678391,
   "sha256_csv": "eb98023222d57b574598e3e09b08dadc344ad7e88f27ae542b17305e876873a6",
   "bytes_csv": 33289540,
   "compresion": "gzip",
